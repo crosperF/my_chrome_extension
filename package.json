@@ -1,0 +1,14 @@
+{
+  "name": "aware_chrome_extension",
+  "version": "1.0.0",
+  "description": "This is my test project",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crosper Fonseka",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-types": "^0.1.179"
+  }
+}
